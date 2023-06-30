@@ -1,0 +1,1 @@
+https://alancutter.github.io/.well-known/web-app-origin-association
